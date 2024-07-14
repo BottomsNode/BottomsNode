@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python,Java,PHP**
 
-- 📫 How to reach me **https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237**
+- 📫 How to reach me **[https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237](https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237/)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KLw8J_zy4SHtcUWBTTJOhe9ZdvAso-Ai/view?usp=sharing](https://drive.google.com/file/d/1KLw8J_zy4SHtcUWBTTJOhe9ZdvAso-Ai/view?usp=sharing)
 
