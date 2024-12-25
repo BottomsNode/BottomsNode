@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **AI/ML**
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/BottomsNode?tab=repositories)
 - 💬 Ask me about **Python, Java, PHP**
-- 📧 How to reach me: **[LinkedIn](https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237/)**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1KLw8J_zy4SHtcUWBTTJOhe9ZdvAso-Ai/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
