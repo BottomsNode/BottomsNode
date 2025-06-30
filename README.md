@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bottomsnode&label=Profile%20views&color=0e75b6&style=flat" alt="bottomsnode" /> </p>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 Hand's on Experience on **Javascript | NestJs | TypeScript**
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/BottomsNode?tab=repositories)
 - 💬 Ask me about **Python, Java, PHP, and Full Stack Development**
 - 📧 How to reach me: **[LinkedIn](https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237/)**
