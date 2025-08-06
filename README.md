@@ -23,15 +23,25 @@
 
 | 💻 Project | 🚀 Tech Stack | 🔗 Link |
 |-----------|----------------|---------|
-| 🛍️ **E-Commerce Admin Dashboard** | React, NestJS, MongoDB, Tailwind | [Live Demo](https://your-admin-dashboard-link.com) |
-| 📄 **PDF Invoice Generator** | React, jsPDF, Cloudinary, QRCode | [Live Demo](https://your-invoice-app-link.com) |
-| 📊 **AI/ML Research Portal** | Django, Python, Pandas, Seaborn | _Coming Soon_ |
-| 📱 **Mobile Shop Billing System** | PHP, MySQL, Bootstrap | _Offline Project_ |
-| 🎓 **Learning Tracker App** | React, Redux, Firebase | _In Progress_ |
+| 🛍️ **Nest-Mart Shop (Live)** | NestJS, React, MongoDB, Tailwind | [Frontend](https://nest-mart-react-frontend.vercel.app/) · [Backend](https://nest-mart-react-backend.onrender.com/) |
+| 📄 **PDF Invoice Generator** | React, jsPDF, Cloudinary, QRCode | _Part of Shop Project_ |
+| 🐦 **Twitter Clone** | React, Firebase, Tailwind | [GitHub](https://github.com/BottomsNode/Twitter-Clone) |
+| 🕹️ **Hangman Game** | React, Hooks, UI Design | [Live](https://hangman-game-react-kappa.vercel.app/) |
+| 🍽️ **Swagatam Restaurants API** | NestJS, TypeORM, PostgreSQL | [GitHub](https://github.com/BottomsNode/swagatam-restaurants-main) |
 
 ---
 
-### 🏷️ Badges
+### 🕰️ Older Projects (Still Effective)
+
+- 💬 [MERN Chat App](https://github.com/BottomsNode/MERN-Chat-App)
+- 📱 [MyNotesApp - Android App](https://github.com/BottomsNode/MyNotesApp)
+- 🧾 [Mobile Shop Billing - PHP](https://github.com/BottomsNode/Mobile-Shop-Management-System-PHP)
+- ✅ [ToDoList - Android](https://github.com/BottomsNode/ToDoListApp-master)
+- 🌦️ [Weather App - Android](https://github.com/BottomsNode/WeatherApp_SkyForecast)
+
+---
+
+### 🏷️ Tech Badges
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
