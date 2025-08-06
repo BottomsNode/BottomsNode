@@ -26,7 +26,7 @@
 
 | 💻 Project | 🚀 Tech Stack | 🔗 Link |
 |-----------|----------------|---------|
-| 🛍️ **Nest-Mart Shop (Live)** | NestJS, React, MongoDB, Tailwind | [Frontend](https://nest-mart-react-frontend.vercel.app/) · [Backend](https://nest-mart-react-backend.onrender.com/) |
+| 🛍️ **Nest-Mart Shop (Live)** | NestJS, React, MongoDB, Tailwind | [Frontend](https://nest-mart-react-frontend.vercel.app/) · [Backend](https://nest-mart-react-backend.onrender.com/nest-mart-api-docs) |
 | 📄 **PDF Invoice Generator** | React, jsPDF, Cloudinary, QRCode | _Part of Shop Project_ |
 | 🐦 **Twitter Clone** | React, Firebase, Tailwind | [GitHub](https://github.com/BottomsNode/Twitter-Clone) |
 | 🕹️ **Hangman Game** | React, Hooks, UI Design | [Live](https://hangman-game-react-kappa.vercel.app/) |
