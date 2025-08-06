@@ -15,7 +15,9 @@
 - 🔧 Languages I work with: **JavaScript**, **TypeScript**, **Python**, **PHP**, **Java**
 - 🔍 Exploring **AI/ML**, data visualization, and cloud deployment
 - 🧩 Fun fact: I love solving problems and optimizing backend performance
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237/)
+- 📫 Reach me on [Nishit Shivdasani](https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237/) <a href="https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237/" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="23" />
+  </a>
 - 📄 View my [Resume](https://drive.google.com/file/d/1KLw8J_zy4SHtcUWBTTJOhe9ZdvAso-Ai/view?usp=sharing)
 
 ---
@@ -102,16 +104,6 @@
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottomsnode&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-### 🌐 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237/" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
-  </a>
 </p>
 
 ---
