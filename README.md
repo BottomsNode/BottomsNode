@@ -99,35 +99,7 @@
 
 ---
 
-<!-- 🐍 Contribution Snake -->
-## 🐍 GitHub Contribution Snake
-
-> Add this GitHub Action to your repo to auto-generate the snake:
-> [Repo Link](https://github.com/Platane/snk)
-
-```yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: bottomsnode
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<!-- 🐍 Snake Contribution Graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BottomsNode/BottomsNode/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</p>
