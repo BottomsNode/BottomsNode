@@ -30,7 +30,7 @@
 | 📄 **PDF Invoice Generator** | React, jsPDF, Cloudinary, QRCode | _Part of Shop Project_ |
 | 🐦 **Twitter Clone** | React, Firebase, Tailwind | [GitHub](https://github.com/BottomsNode/Twitter-Clone) |
 | 🕹️ **Hangman Game** | React, Hooks, UI Design | [Live](https://hangman-game-react-kappa.vercel.app/) |
-| 🍽️ **Swagatam Restaurants API** | NestJS, TypeORM, PostgreSQL | [GitHub](https://github.com/BottomsNode/swagatam-restaurants-main) |
+| 🍽️ **Swagatam Restaurants API** | NestJS, TypeORM, PostgreSQL | [Live](https://swagatam-restaurants-backend-nestjs.onrender.com/api-docs) |
 
 </div>
 
