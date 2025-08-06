@@ -111,5 +111,5 @@
 
 <!-- 🐍 Snake Contribution Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BottomsNode/BottomsNode/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <img src="./assets/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </p>
