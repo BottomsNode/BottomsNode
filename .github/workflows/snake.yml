@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: bottomsnode
           outputs: |
-            ./assets/github-contribution-grid-snake.svg
+            ./assets/github-contribution-grid-snake-dark.svg
             ./assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Commit and Push generated SVG
