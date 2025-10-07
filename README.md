@@ -99,7 +99,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bottomsnode&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bottomsnode&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=bottomsnode&theme=default" alt="GitHub Streak" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottomsnode&layout=compact" alt="Top Languages" />
