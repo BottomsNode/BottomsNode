@@ -93,28 +93,41 @@
 
 ### 📊 GitHub Stats (Auto-Updating & Comprehensive)
 
-<!--START_SECTION:github-stats-->
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=bottomsnode&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&custom_title=BottomsNode%27s%20GitHub%20Stats"
-    alt="BottomsNode GitHub Stats" 
-  />
-</p>
+<!-- START_SECTION:github-stats -->
+<div align="center" style="width: 100%;">
 
-<p align="left">
-  <img 
-    src="https://streak-stats.demolab.com?user=bottomsnode&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D"
-    alt="BottomsNode GitHub Streak" 
-  />
-</p>
+  <!-- GitHub Stats -->
+  <p align="center">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=bottomsnode&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&custom_title=BottomsNode%27s%20GitHub%20Stats"
+      alt="BottomsNode GitHub Stats" 
+      width="65%"
+      style="max-width: 1000px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
+    />
+  </p>
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottomsnode&layout=compact&hide_border=false&langs_count=8&count_private=true&theme=transparent"
-    alt="BottomsNode Top Languages" 
-  />
-</p>
-<!--END_SECTION:github-stats-->
+  <!-- GitHub Streak -->
+  <p align="center">
+    <img 
+      src="https://streak-stats.demolab.com/?user=bottomsnode&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D"
+      alt="BottomsNode GitHub Streak" 
+      width="65%"
+      style="max-width: 900px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-top: 20px;"
+    />
+  </p>
+
+  <!-- Top Languages -->
+  <p align="center">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottomsnode&layout=compact&hide_border=false&langs_count=8&count_private=true&theme=transparent"
+      alt="BottomsNode Top Languages" 
+      width="300px"
+      style="max-width: 800px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-top: 20px;"
+    />
+  </p>
+
+</div>
+<!-- END_SECTION:github-stats -->
 
 
 ---
