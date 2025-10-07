@@ -17,34 +17,17 @@ jobs:
       - name: 🧩 Checkout repository
         uses: actions/checkout@v3
 
-      # --- Update README Stats (Top Languages) ---
+      # --- Update README Stats (Top Languages & Stats) ---
       - name: 📊 Update README with Top Languages
         uses: DimaTc/readme-stats-updater@v0.1.1
         env:
           GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
-
-      # --- Generate Snake Contribution Graph ---
-      - name: 🐍 Generate Snake Contribution Graph
-        uses: Platane/snk@v3
-        with:
-          github_user_name: bottomsnode
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-        env:
-          GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
-
-      - name: 📦 Move snake to assets
-        run: |
-          mkdir -p assets
-          cp dist/github-contribution-grid-snake.svg assets/github-contribution-grid-snake.svg
-          cp dist/github-contribution-grid-snake-dark.svg assets/github-contribution-grid-snake-dark.svg
 
       # --- Commit and Push Changes ---
       - name: 🚀 Commit & Push updates
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add README.md assets/
+          git add README.md
           git commit -m "chore: auto-update README stats 🌀 [skip ci]" || echo "No changes to commit"
           git push
