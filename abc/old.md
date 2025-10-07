@@ -10,13 +10,15 @@
 
 ### 🚀 About Me
 
-- 💻 Full Stack Developer passionate about building scalable production apps  
-- 💡 I love clean architecture and reusable component design  
-- 🔧 Languages I work with: **JavaScript**, **TypeScript**, **Python**, **PHP**, **Java**  
-- 🔍 Exploring **AI/ML**, data visualization, and cloud deployment  
-- 🧩 Fun fact: I love solving problems and optimizing backend performance  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237/)  
-- 📄 View my [Resume](https://drive.google.com/file/d/1KLw8J_zy4SHtcUWBTTJOhe9ZdvAso-Ai/view?usp=sharing)  
+- 💻 Full Stack Developer passionate about building scalable production apps
+- 💡 I love clean architecture and reusable component design
+- 🔧 Languages I work with: **JavaScript**, **TypeScript**, **Python**, **PHP**, **Java**
+- 🔍 Exploring **AI/ML**, data visualization, and cloud deployment
+- 🧩 Fun fact: I love solving problems and optimizing backend performance
+- 📫 Reach me on [Nishit Shivdasani](https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237/) <a href="https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237/" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="23" />
+  </a>
+- 📄 View my [Resume](https://drive.google.com/file/d/1KLw8J_zy4SHtcUWBTTJOhe9ZdvAso-Ai/view?usp=sharing)
 
 ---
 
@@ -38,11 +40,11 @@
 
 ### 🕰️ Older Projects (Still Effective)
 
-- 💬 [MERN Chat App](https://github.com/BottomsNode/MERN-Chat-App)  
-- 🗒️ [MyNotesApp - Android App](https://github.com/BottomsNode/MyNotesApp)  
-- 🧾 [Mobile Shop Billing - PHP](https://github.com/BottomsNode/Mobile-Shop-Management-System-PHP)  
-- ✅ [ToDoList - Android](https://github.com/BottomsNode/ToDoListApp-master)  
-- 🌦️ [Weather App - Android](https://github.com/BottomsNode/WeatherApp_SkyForecast)  
+- 💬 [MERN Chat App](https://github.com/BottomsNode/MERN-Chat-App)
+- 🗒️ [MyNotesApp - Android App](https://github.com/BottomsNode/MyNotesApp)
+- 🧾 [Mobile Shop Billing - PHP](https://github.com/BottomsNode/Mobile-Shop-Management-System-PHP)
+- ✅ [ToDoList - Android](https://github.com/BottomsNode/ToDoListApp-master)
+- 🌦️ [Weather App - Android](https://github.com/BottomsNode/WeatherApp_SkyForecast)
 
 ---
 
@@ -91,16 +93,16 @@
 
 ---
 
-### 📊 GitHub Stats (Auto-Updating)
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bottomsnode&show_icons=true&theme=transparent&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bottomsnode&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=bottomsnode&theme=default&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=bottomsnode&theme=default" alt="GitHub Streak" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottomsnode&layout=compact&hide_border=false&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottomsnode&layout=compact" alt="Top Languages" />
 </p>
 
 ---
