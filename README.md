@@ -91,10 +91,20 @@
 
 ---
 
-### 📊 GitHub Stats (Auto-Updating & Comprehensive)
+### 📊 GitHub Stats
 
 <!-- START_SECTION:github-stats -->
 <div align="center" style="width: 100%;">
+
+  <!-- Top Languages -->
+  <p align="center">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottomsnode&layout=compact&hide_border=false&langs_count=8&count_private=true&theme=transparent"
+      alt="BottomsNode Top Languages" 
+      width="300px"
+      style="max-width: 800px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-top: 20px;"
+    />
+  </p>
 
   <!-- GitHub Stats -->
   <p align="center">
@@ -113,16 +123,6 @@
       alt="BottomsNode GitHub Streak" 
       width="65%"
       style="max-width: 900px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-top: 20px;"
-    />
-  </p>
-
-  <!-- Top Languages -->
-  <p align="center">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottomsnode&layout=compact&hide_border=false&langs_count=8&count_private=true&theme=transparent"
-      alt="BottomsNode Top Languages" 
-      width="300px"
-      style="max-width: 800px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-top: 20px;"
     />
   </p>
 
