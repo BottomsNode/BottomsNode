@@ -91,17 +91,31 @@
 
 ---
 
-### 📊 GitHub Stats (Auto-Updating)
+### 📊 GitHub Stats (Auto-Updating & Comprehensive)
+
+<!--START_SECTION:github-stats-->
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=bottomsnode&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&custom_title=BottomsNode%27s%20GitHub%20Stats"
+    alt="BottomsNode GitHub Stats" 
+  />
+</p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bottomsnode&show_icons=true&theme=transparent&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img 
+    src="https://streak-stats.demolab.com?user=bottomsnode&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D"
+    alt="BottomsNode GitHub Streak" 
+  />
 </p>
+
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=bottomsnode&theme=default&hide_border=false" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottomsnode&layout=compact&hide_border=false&langs_count=8&count_private=true&theme=transparent"
+    alt="BottomsNode Top Languages" 
+  />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottomsnode&layout=compact&hide_border=false&langs_count=8" alt="Top Languages" />
-</p>
+<!--END_SECTION:github-stats-->
+
 
 ---
 
