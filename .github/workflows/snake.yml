@@ -30,15 +30,13 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Ensure we’re on main branch
+          # Make sure we’re on main and have all branches
+          git fetch origin main
           git checkout main
+          git pull origin main --rebase
 
-          # Pull latest commits before committing changes
-          git pull origin main --rebase || true
-
-          # Stage and commit updates
           git add assets/
           git commit -m "🐍 Update snake contribution graph" || echo "No changes to commit"
 
-          # Push using GitHub token
+          # Force-safe fast-forward push (no overwrite)
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git main
