@@ -10,7 +10,9 @@
 
 ---
 
-### 🚀 About Me
+<div align="center">
+<h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="35" height="35"> About Me</h2>
+</div>
 
 - 💻 Full Stack Developer passionate about building scalable production apps  
 - 💡 I love clean architecture and reusable component design  
@@ -22,122 +24,160 @@
 
 ---
 
-### 🌟 Highlighted Projects
+<div align="center">
+<h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35"> Let's Connect</h2>
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/nishit-shivdasani-b5b3b1237" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+  </a>
+  <a href="mailto:nishitshivdasani01@gmail.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
+  </a>
+  <a href="https://x.com/BottomsNode" target="blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/BottomsNode" target="blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true" height="40" width="40" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+<h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35"> Tech & Tools</h2>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" title="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" title="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" title="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" title="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" title="PHP" />
+      <br>PHP
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" title="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" title="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" title="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" title="NestJS" />
+      <br>NestJS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" title="Express.js" />
+      <br>Express.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" title="TailwindCSS" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" title="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" title="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&titles=true" width="45" height="45" title="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" title="Firebase" />
+      <br>Firebase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" title="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" title="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" title="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" title="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=canva&titles=true" width="45" height="45" title="Canva" />
+      <br>Canva
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+<h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png" width="35" height="35"> GitHub Stats</h2>
+</div>
 
 <div align="center">
 
-| 💻 Project | 🚀 Tech Stack | 🔗 Link |
-|-----------|----------------|---------|
-| 🛍️ **Nest-Mart Shop (Live)** | NestJS, React, MongoDB, Tailwind | [Frontend](https://nest-mart-react-frontend.vercel.app/) · [Backend](https://nest-mart-react-backend.onrender.com/nest-mart-api-docs) |
-| 📄 **PDF Invoice Generator** | React, jsPDF, Cloudinary, QRCode | _Part of Shop Project_ |
-| 🐦 **Twitter Clone** | React, Firebase, Tailwind | [GitHub](https://github.com/BottomsNode/Twitter-Clone) |
-| 🕹️ **Hangman Game** | React, Hooks, UI Design | [Live](https://hangman-game-react-kappa.vercel.app/) |
-| 🍽️ **Swagatam Restaurants API** | NestJS, TypeORM, PostgreSQL | [Live](https://swagatam-restaurants-backend-nestjs.onrender.com/api-docs) |
-
-</div>
-
----
-
-### 🕰️ Older Projects (Still Effective)
-
-- 💬 [MERN Chat App](https://github.com/BottomsNode/MERN-Chat-App)  
-- 🗒️ [MyNotesApp - Android App](https://github.com/BottomsNode/MyNotesApp)  
-- 🧾 [Mobile Shop Billing - PHP](https://github.com/BottomsNode/Mobile-Shop-Management-System-PHP)  
-- ✅ [ToDoList - Android](https://github.com/BottomsNode/ToDoListApp-master)  
-- 🌦️ [Weather App - Android](https://github.com/BottomsNode/WeatherApp_SkyForecast)  
-
----
-
-### 🏷️ Tech Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=000" />
-</p>
-
----
-
-### 🔧 Tech Stack
-
-#### 🖥️ Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-</p>
-
-#### 🧰 Frameworks & Libraries
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-</p>
-
-#### 🗃️ Databases & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<!-- START_SECTION:github-stats -->
-<div align="center" style="width: 100%;">
-
-  <!-- Top Languages -->
-  <p align="center">
+  <p>
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottomsnode&layout=compact&hide_border=false&langs_count=8&count_private=true&theme=transparent"
-      alt="BottomsNode Top Languages" 
-      width="300px"
-      style="max-width: 800px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-top: 20px;"
-    />
-  </p>
-
-  <!-- GitHub Stats -->
-  <p align="center">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=bottomsnode&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&custom_title=BottomsNode%27s%20GitHub%20Stats"
-      alt="BottomsNode GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=bottomsnode&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github"
       width="65%"
-      style="max-width: 1000px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
     />
   </p>
 
-  <!-- GitHub Streak -->
-  <p align="center">
+  <p>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottomsnode&layout=compact&theme=transparent&hide_border=false&langs_count=8"
+      width="45%"
+    />
+  </p>
+
+  <p>
     <img 
       src="https://streak-stats.demolab.com/?user=bottomsnode&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D"
-      alt="BottomsNode GitHub Streak" 
       width="65%"
-      style="max-width: 900px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-top: 20px;"
     />
   </p>
-
 </div>
-<!-- END_SECTION:github-stats -->
-
 
 ---
 
-<!-- 🐍 Snake Contribution Graph -->
+<div align="center">
+<h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png" width="35" height="35"> Contributions</h2>
+</div>
+
 <p align="center">
   <img src="./assets/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </p>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:45a29e&section=footer&animation=fadeIn" width="100%"/>
