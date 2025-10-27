@@ -32,7 +32,7 @@
   <a href="https://linkedin.com/in/nishit-shivdasani-b5b3b1237" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
   </a>
-  <a href="mailto:nishitshivdasani01@gmail.com" target="blank">
+  <a href="mailto:nishitshivdasani2001@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
   </a>
   <a href="https://x.com/BottomsNode" target="blank">
