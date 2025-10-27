@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:45a29e" width="100%"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0ED8F7&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishit+Shivdasani;MERN+Stack+Developer+%7C+Python+Developer;Full+Stack+Engineer+%7C+AI%2FML+Enthusiast;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
