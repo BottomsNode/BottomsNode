@@ -12,8 +12,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false # prevents credential reuse issues
-          fetch-depth: 0 # full history for rebase
+          persist-credentials: false
+          fetch-depth: 0
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -30,11 +30,15 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Pull latest changes before committing
+          # Ensure we’re on main branch
+          git checkout main
+
+          # Pull latest commits before committing changes
           git pull origin main --rebase || true
 
+          # Stage and commit updates
           git add assets/
           git commit -m "🐍 Update snake contribution graph" || echo "No changes to commit"
 
-          # Push changes safely with token
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+          # Push using GitHub token
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git main
