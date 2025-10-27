@@ -1,60 +1,30 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:45a29e" width="100%"/> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&section=header&text=NISHIT%20SHIVDASANI&fontSize=78&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Innovating%20as%20an%20SDE%20@eSparkBiz&descAlignY=60&descSize=22&descAlign=62&color=0:4FC3F7,100:C084F5" width="100%" />
 
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0ED8F7&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishit+Shivdasani;MERN+Stack+Developer+%7C+Python+Developer;Full+Stack+Engineer+%7C+AI%2FML+Enthusiast;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
-</p> -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=48&pause=1000&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+my+coding+playground+%F0%9F%8E%AF;TS%2FJS+Developer+(MERN+Stack+%26+Beyond);Python+Developer;Open+Source+Enthusiast;Building+cool+things+with+code+%F0%9F%9A%80" 
-    alt="Typing SVG" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=48&pause=1000&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+my+coding+playground+%F0%9F%8E%AF;TS%2FJS+Developer+(MERN+Stack+%26+Beyond);Python+Developer;Open+Source+Enthusiast;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bottomsnode&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
 <div align="center">
 <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="35" height="35"> About Me</h2>
 </div>
 
-- 💻 Full Stack Developer passionate about building scalable production apps  
-- 💡 I love clean architecture and reusable component design  
-- 🔧 Languages I work with: **JavaScript**, **TypeScript**, **Python**, **PHP**, **Java**  
-- 🔍 Exploring **AI/ML**, data visualization, and cloud deployment  
-- 🧩 Fun fact: I love solving problems and optimizing backend performance  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237/)  
-- 📄 View my [Resume](https://drive.google.com/file/d/1KLw8J_zy4SHtcUWBTTJOhe9ZdvAso-Ai/view?usp=sharing)  
-
----
-
-<div align="center">
-<h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35"> Let's Connect</h2>
-</div>
-
-<p align="center">
-  <a href="https://linkedin.com/in/nishit-shivdasani-b5b3b1237" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
-  </a>
-  <a href="mailto:nishitshivdasani2001@gmail.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
-  </a>
-  <!-- <a href="https://x.com/BottomsNode" target="blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/BottomsNode" target="blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true" height="40" width="40" />
-  </a> -->
-</p>
-
----
+<ul>
+  <li>🚀 <b>Full Stack Developer</b> passionate about building scalable, production-ready applications</li>
+  <li>💡 Enthusiastic about <b>clean architecture</b> and <b>reusable component design</b></li>
+  <li>🔧 Skilled in: <b>JavaScript</b>, <b>TypeScript</b>, <b>Python</b>, <b>PHP</b>, <b>Java</b></li>
+  <li>🔍 Exploring <b>AI/ML</b>, <b>data visualization</b>, and <b>cloud deployment</b></li>
+  <li>🧩 Fun fact: I enjoy solving complex problems and optimizing backend performance</li>
+  <li>
+    📄 View my 
+    <a href="https://drive.google.com/file/d/1KLw8J_zy4SHtcUWBTTJOhe9ZdvAso-Ai/view?usp=sharing" target="_blank" style="text-decoration: none;">
+      <b>Resume</b>
+    </a>
+  </li>
+</ul>
 
 <div align="center">
 <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35"> Tech & Tools</h2>
@@ -151,14 +121,12 @@
   </tr>
 </table>
 
----
-
 <div align="center">
 <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png" width="35" height="35"> GitHub Stats</h2>
 </div>
 
 <div align="center">
-
+  
   <p>
     <img 
       src="https://github-readme-stats.vercel.app/api?username=bottomsnode&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github"
@@ -181,7 +149,26 @@
   </p>
 </div>
 
----
+<div align="center">
+  <h2>
+    <img 
+      src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" 
+      width="35" 
+      height="35" 
+      alt="Handshake Emoji"
+    /> 
+    Let's Connect
+  </h2>
+  <p>
+    <a href="https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237/" target="_blank" style="text-decoration: none;">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:nishitshivdasani2001@gmail.com" target="_blank" style="text-decoration: none;">
+      <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail" />
+    </a>
+  </p>
+</div>
 
 <div align="center">
 <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png" width="35" height="35"> Contributions</h2>
