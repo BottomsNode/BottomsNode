@@ -171,11 +171,34 @@
 </div>
 
 <div align="center">
-<h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png" width="35" height="35"> Contributions</h2>
+  <h2>
+    <img 
+      src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png" 
+      width="35" 
+      height="35" 
+      alt="Rocket Emoji"
+    /> 
+    Contributions
+  </h2>
 </div>
 
-<p align="center">
-  <img src="./assets/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+<div align="center" style="margin: 20px 0;">
+  <!-- 3D Contribution Graph -->
+  <img 
+    src="./profile-3d-contrib/profile-night-rainbow.svg" 
+    width="75%" 
+    alt="3D GitHub Contribution Graph"
+    style="max-width: 800px; border-radius: 16px; box-shadow: 0 0 20px rgba(79,195,247,0.3);" 
+  />
+</div>
+
+<p align="center" style="margin-top: 20px;">
+  <!-- Snake Contribution Animation -->
+  <img 
+    src="./assets/github-contribution-grid-snake-dark.svg?palette=github-dark" 
+    width="100%" 
+    alt="GitHub Contribution Snake Animation"
+  />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:C084F5&section=footer&animation=fadeIn" width="100%"/>
