@@ -138,3 +138,6 @@
 <p align="center">
   <img src="./assets/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:45a29e&section=footer&animation=fadeIn" width="100%"/>
