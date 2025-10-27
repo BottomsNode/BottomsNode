@@ -2,9 +2,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&section=header&text=NISHIT%20SHIVDASANI&fontSize=78&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Innovating%20as%20an%20SDE%20@eSparkBiz&descAlignY=60&descSize=22&descAlign=62&color=0:4FC3F7,100:C084F5" width="100%" />
 
 
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0ED8F7&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishit+Shivdasani;MERN+Stack+Developer+%7C+Python+Developer;Full+Stack+Engineer+%7C+AI%2FML+Enthusiast;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
+</p> -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0ED8F7&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishit+Shivdasani;MERN+Stack+Developer+%7C+Python+Developer;Full+Stack+Engineer+%7C+AI%2FML+Enthusiast;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=48&pause=1000&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+my+coding+playground+%F0%9F%8E%AF;TS%2FJS+Developer+(MERN+Stack+%26+Beyond);Python+Developer;Open+Source+Enthusiast;Building+cool+things+with+code+%F0%9F%9A%80" 
+    alt="Typing SVG" 
+  />
 </p>
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bottomsnode&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
