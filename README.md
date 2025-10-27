@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:45a29e" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:45a29e" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&section=header&text=NISHIT%20SHIVDASANI&fontSize=78&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Innovating%20as%20an%20SDE%20@eSparkBiz&descAlignY=60&descSize=22&descAlign=62&color=0:4FC3F7,100:C084F5" width="100%" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0ED8F7&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishit+Shivdasani;MERN+Stack+Developer+%7C+Python+Developer;Full+Stack+Engineer+%7C+AI%2FML+Enthusiast;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
@@ -180,4 +182,4 @@
   <img src="./assets/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:45a29e&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:C084F5&section=footer&animation=fadeIn" width="100%"/>
