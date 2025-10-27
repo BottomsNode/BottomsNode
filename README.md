@@ -35,12 +35,12 @@
   <a href="mailto:nishitshivdasani2001@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
   </a>
-  <a href="https://x.com/BottomsNode" target="blank">
+  <!-- <a href="https://x.com/BottomsNode" target="blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" width="40" />
   </a>
   <a href="https://leetcode.com/u/BottomsNode" target="blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true" height="40" width="40" />
-  </a>
+  </a> -->
 </p>
 
 ---
