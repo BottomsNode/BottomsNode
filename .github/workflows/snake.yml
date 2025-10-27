@@ -30,13 +30,19 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Make sure we’re on main and have all branches
           git fetch origin main
           git checkout main
-          git pull origin main --rebase
+
+          # Stash local snake changes before pulling remote updates
+          git stash push --include-untracked || true
+
+          # Rebase onto latest main
+          git pull origin main --rebase || true
+
+          # Reapply stashed snake output
+          git stash pop || true
 
           git add assets/
           git commit -m "🐍 Update snake contribution graph" || echo "No changes to commit"
 
-          # Force-safe fast-forward push (no overwrite)
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git main
