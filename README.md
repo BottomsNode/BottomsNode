@@ -121,7 +121,7 @@
   </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
 <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png" width="35" height="35"> GitHub Stats</h2>
 </div>
 
@@ -147,28 +147,46 @@
       width="65%"
     />
   </p>
-</div>
-
+</div> -->
 <div align="center">
   <h2>
     <img 
-      src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" 
+      src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png" 
       width="35" 
       height="35" 
-      alt="Handshake Emoji"
+      alt="Bar Chart Emoji"
     /> 
-    Let's Connect
+    GitHub Stats
   </h2>
-  <p>
-    <a href="https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237/" target="_blank" style="text-decoration: none;">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:nishitshivdasani2001@gmail.com" target="_blank" style="text-decoration: none;">
-      <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail" />
-    </a>
-  </p>
 </div>
+
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=bottomsnode&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" 
+        alt="BottomsNode GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottomsnode&layout=compact&theme=transparent&hide_border=false&langs_count=8"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img 
+        src="https://streak-stats.demolab.com/?user=bottomsnode&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D"
+        alt="GitHub Streak Stats"
+        width="80%"
+      />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <h2>
@@ -201,4 +219,24 @@
   />
 </p>
 
+<div align="center">
+  <h2>
+    <img 
+      src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" 
+      width="35" 
+      height="35" 
+      alt="Handshake Emoji"
+    /> 
+    Let's Connect
+  </h2>
+  <p>
+    <a href="https://www.linkedin.com/in/nishit-shivdasani-b5b3b1237/" target="_blank" style="text-decoration: none;">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:nishitshivdasani2001@gmail.com" target="_blank" style="text-decoration: none;">
+      <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail" />
+    </a>
+  </p>
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:C084F5&section=footer&animation=fadeIn" width="100%"/>
