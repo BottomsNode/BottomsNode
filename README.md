@@ -121,33 +121,6 @@
   </tr>
 </table>
 
-<!-- <div align="center">
-<h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png" width="35" height="35"> GitHub Stats</h2>
-</div>
-
-<div align="center">
-  
-  <p>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=bottomsnode&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github"
-      width="65%"
-    />
-  </p>
-
-  <p>
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottomsnode&layout=compact&theme=transparent&hide_border=false&langs_count=8"
-      width="45%"
-    />
-  </p>
-
-  <p>
-    <img 
-      src="https://streak-stats.demolab.com/?user=bottomsnode&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D"
-      width="65%"
-    />
-  </p>
-</div> -->
 <div align="center">
   <h2>
     <img 
