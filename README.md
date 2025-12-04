@@ -138,7 +138,7 @@
     <td align="center" width="50%">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=BinaryStudio8&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" 
-        alt="BottomsNode GitHub Stats"
+        alt="BinaryStudio8 GitHub Stats"
         width="100%"
       />
     </td>
@@ -153,7 +153,7 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=BottomsNode&theme=transparent&hide_border=false" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=BinaryStudio8&theme=transparent&hide_border=false" alt="GitHub Streak" />
   </a>
     </td>
   </tr>
