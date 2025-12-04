@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bottomsnode&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BinaryStudio8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <div align="center">
@@ -137,14 +137,14 @@
   <tr>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=bottomsnode&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" 
+        src="https://github-readme-stats.vercel.app/api?username=BinaryStudio8&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" 
         alt="BottomsNode GitHub Stats"
         width="100%"
       />
     </td>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bottomsnode&layout=compact&theme=transparent&hide_border=false&langs_count=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryStudio8&layout=compact&theme=transparent&hide_border=false&langs_count=8"
         alt="Top Languages"
         width="100%"
       />
